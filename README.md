@@ -23,13 +23,5 @@ All primary content is available in both Greek and English.
 
 ---
 
-### Researcher and Editor
-
-Evie Tsintzeli
-
----
-
-### License  
-
-Content available under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+**Researcher and Editor**: Evie Tsintzeli  
+**License**: [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
