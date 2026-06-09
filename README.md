@@ -1,4 +1,4 @@
-# odrakostouseixsou.gr 🌐
+# [Παγκρατίδης. Ο Δράκος του Σέιχ Σου. Ένοχος, έως πότε;](https://odrakostouseixsou.gr)
 
 ## In English
 
@@ -21,11 +21,9 @@ All primary content is available in both Greek and English.
 
 🌐 https://odrakostouseixsou.gr
 
-🇬🇷 Συνέντευξη με τον Κώστα Λογοθέτη / Logothetis Interview – Greek Edition (Original)  
-https://doi.org/10.5281/zenodo.20409923
+🇬🇷 Zenodo: [Συνέντευξη με τον Κώστα Λογοθέτη / Logothetis Interview – Greek Edition, Original](https://doi.org/10.5281/zenodo.20409923)
 
-🇬🇧 Logothetis Interview – English Edition (Translation)  
-https://doi.org/10.5281/zenodo.20457735
+🇬🇧 Zenodo: [Logothetis Interview – English Edition, Translation](https://doi.org/10.5281/zenodo.20457735)
 
 ---
 
