@@ -4,7 +4,7 @@ Welcome to the GitHub profile of [**odrakostouseixsou.gr**](https://odrakostouse
 
 ### Scope of the Project
 
-This project compiles and analyzes historical sources, contemporary press reports, and published studies related to the case of Aristidis Pagratidis. It also includes a documented interview conducted specifically for this research with lawyer and former state prosecutor **Konstantinos Logothetis**, examining key aspects of the case and its historical context.
+This project compiles and analyzes historical sources, contemporary press reports, and published studies related to the case of **Aristidis Pagratidis**. It also includes a documented interview conducted specifically for this research with lawyer and former state prosecutor **Konstantinos Logothetis**, examining key aspects of the case and its historical context.
 
 Its purpose is to provide a structured and well-documented reference for researchers, journalists, students, and readers interested in the case.
 All primary content is available in both Greek and English.
@@ -17,9 +17,9 @@ All primary content is available in both Greek and English.
 
 ---
 
-Το παρόν έργο αποτελεί δίγλωσση (ελληνικά–αγγλικά) ερευνητική και τεκμηριωτική προσπάθεια, βασισμένη σε πρωτογενείς και δευτερογενείς πηγές, σχετικά με την υπόθεση του **Αριστείδη Παγκρατίδη**.
+Το παρόν έργο συγκεντρώνει και αναλύει ιστορικές πηγές, δημοσιεύματα του Τύπου της εποχής και μελέτες σχετικά με την υπόθεση του **Αριστείδη Παγκρατίδη**. Περιλαμβάνει μια τεκμηριωμένη συνέντευξη που πραγματοποιήθηκε ειδικά για την έρευνα και παραχωρήθηκε από τον δικηγόρο και πρώην εισαγγελέα **Κωνσταντίνο Λογοθέτη**, η οποία εξετάζει βασικές πτυχές της υπόθεσης και το ιστορικό της πλαίσιο.
 
-Στο πλαίσιο του έργου περιλαμβάνεται τεκμηριωμένη συνέντευξη που πραγματοποιήθηκε ειδικά για την έρευνα με τον δικηγόρο και πρώην εισαγγελέα **Κωνσταντίνο Λογοθέτη**, η οποία εξετάζει κρίσιμες πτυχές της υπόθεσης και το ιστορικό της πλαίσιο.
+Στόχος του παρόντος είναι η παροχή μιας συγκροτημένης και επαρκώς τεκμηριωμένης πηγής αναφοράς για ερευνητές, δημοσιογράφους, φοιτητές και μελετητές που ενδιαφέρονται για την υπόθεση. Όλο το βασικό περιεχόμενο διατίθεται στην ελληνική και την αγγλική γλώσσα.
 
 ---
 
