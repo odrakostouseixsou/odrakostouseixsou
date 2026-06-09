@@ -4,7 +4,7 @@
 
 Welcome to the GitHub profile of **odrakostouseixsou.gr**, a bilingual historical research and documentation project based on primary and secondary sources, dedicated to the historical and judicial case of **Aristidis Pagratidis**, widely known as the "Dragon of Seich Sou".
 
-## 🎯 Scope of the Project
+## Scope of the Project
 
 This project compiles and analyzes historical sources, contemporary press reports, and published studies related to the case of Aristidis Pagratidis. It also includes a documented interview conducted specifically for this research with lawyer and former state prosecutor **Konstantinos Logothetis**, examining key aspects of the case and its historical context.
 
@@ -17,27 +17,22 @@ All primary content is available in both Greek and English.
 
 Στο πλαίσιο του έργου περιλαμβάνεται τεκμηριωμένη συνέντευξη που πραγματοποιήθηκε ειδικά για την έρευνα με τον δικηγόρο και πρώην εισαγγελέα **Κωνσταντίνο Λογοθέτη**, η οποία εξετάζει κρίσιμες πτυχές της υπόθεσης και το ιστορικό της πλαίσιο.
 
-## 🔗 Related Resources
+## Related Resources
 
 🌐 https://odrakostouseixsou.gr
 
-🇬🇷 Zenodo: [Συνέντευξη με τον Κώστα Λογοθέτη / Logothetis Interview – Greek Edition, Original](https://doi.org/10.5281/zenodo.20409923)
+📄 🇬🇷 Zenodo: [Συνέντευξη με τον Κώστα Λογοθέτη / Logothetis Interview – Greek Edition, Original](https://doi.org/10.5281/zenodo.20409923)
 
-🇬🇧 Zenodo: [Logothetis Interview – English Edition, Translation](https://doi.org/10.5281/zenodo.20457735)
+📄 🇬🇧 Zenodo: [Logothetis Interview – English Edition, Translation](https://doi.org/10.5281/zenodo.20457735)
 
 ---
 
-## 👤 Researcher and Editor
-
+## Researcher and Editor
 Evie Tsintzeli
 
 ---
 
-## 📄 License
+## License
 
 Content available under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 https://creativecommons.org/licenses/by-nc-nd/4.0/
-
----
-
-*For information regarding sources, citations, or reuse of material, please visit the official website.*
