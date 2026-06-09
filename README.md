@@ -1,6 +1,6 @@
 # odrakostouseixsou.gr 🌐
 
-## GB In English
+## In English
 
 Welcome to the GitHub profile of **odrakostouseixsou.gr**, a bilingual historical research and documentation project based on primary and secondary sources, dedicated to the historical and judicial case of **Aristidis Pagratidis**, widely known as the "Dragon of Seich Sou".
 
@@ -11,7 +11,7 @@ This project compiles and analyzes historical sources, contemporary press report
 Its purpose is to provide a structured and well-documented reference for researchers, journalists, students, and readers interested in the case.
 All primary content is available in both Greek and English.
 
-## 🇬🇷 In Greek
+## In Greek
 
 Το παρόν έργο αποτελεί δίγλωσση (ελληνικά–αγγλικά) ερευνητική και τεκμηριωτική προσπάθεια, βασισμένη σε πρωτογενείς και δευτερογενείς πηγές, σχετικά με την υπόθεση του **Αριστείδη Παγκρατίδη**.
 
