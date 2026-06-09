@@ -1,4 +1,4 @@
-# [Pagratidis. The Dragon of Seich Sou. Guilty for how long?](https://odrakostouseixsou.gr)
+# Pagratidis. The Dragon of Seich Sou. Guilty for how long?
 
 ## In English
 
@@ -19,11 +19,11 @@ All primary content is available in both Greek and English.
 
 ## Related Resources
 
-🌐 https://odrakostouseixsou.gr
+🇬🇷 🌐 [Παγκρατίδης. Ο Δράκος του Σέιχ Σου. Ένοχος, έως πότε;](https://odrakostouseixsou.gr)  
+🇬🇷 📄 [Συνέντευξη με τον Κώστα Λογοθέτη / Logothetis Interview – Greek Edition, Original](https://doi.org/10.5281/zenodo.20409923) <sub><sup>Zenodo DOI: 10.5281/zenodo.20409923</sup></sub>
 
-📄 🇬🇷 Zenodo: [Συνέντευξη με τον Κώστα Λογοθέτη / Logothetis Interview – Greek Edition, Original](https://doi.org/10.5281/zenodo.20409923)
-
-📄 🇬🇧 Zenodo: [Logothetis Interview – English Edition, Translation](https://doi.org/10.5281/zenodo.20457735)
+🇬🇧 🌐 [Pagratidis. The Dragon of Seich Sou. Guilty, for how long?](https://odrakostouseixsou.gr/en/)  
+🇬🇧 📄 [Interview with Kostas Logothetis – English Edition, Translation](https://doi.org/10.5281/zenodo.20457735) <sub><sup>Zenodo DOI: 10.5281/zenodo.20457735</sup></sub>
 
 ---
 
