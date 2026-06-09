@@ -1,4 +1,4 @@
-# [Παγκρατίδης. Ο Δράκος του Σέιχ Σου. Ένοχος, έως πότε;](https://odrakostouseixsou.gr)
+# [Pagratidis. The Dragon of Seich Sou. Guilty for how long?](https://odrakostouseixsou.gr)
 
 ## In English
 
